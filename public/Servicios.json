@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Montaje de Redes y Cableado Estructurado",
+    "shortDescription": "Optimiza la conectividad con soluciones de redes, cableado estructurado y servidores.",
+    "fullDescription": "Instalamos y gestionamos redes físicas y virtuales con alto rendimiento y seguridad para tu empresa.",
+    "icon": "FaNetworkWired",
+    "image": "./Img/Infraestructura y Conectividad.jpg"
+  },
+  {
+    "title": "Circuito Cerrado de Televisión (CCTV)",
+    "shortDescription": "Protege tus espacios con tecnología avanzada en CCTV y soluciones de seguridad.",
+    "fullDescription": "Diseñamos e instalamos sistemas de seguridad personalizados con monitoreo remoto, alarmas y grabación continua.",
+    "icon": "FaVideo",
+    "image": "./Img/Sistemas de Seguridad y Videovigilancia.jpg"
+  },
+  {
+    "title": "Desarrollo de Software a la Medida",
+    "shortDescription": "Diseñamos software personalizado y desarrollamos sitios web profesionales adaptados a las necesidades de tu negocio.",
+    "fullDescription": "Creamos soluciones a medida para optimizar tus procesos empresariales y presencia en línea, desde landing pages hasta sistemas completos.",
+    "icon": "FaCode",
+    "image": "./Img/Desarrollo y Creación de Software y Sitios We.jpg"
+  },
+  {
+    "title": "Desarrollo y Creación de Software y Sitios Web",
+    "shortDescription": "Diseñamos software personalizado y desarrollamos sitios web profesionales adaptados a las necesidades de tu negocio.",
+    "fullDescription": "Creamos soluciones a medida para optimizar tus procesos empresariales y presencia en línea, desde landing pages hasta sistemas completos.",
+    "icon": "FaCode",
+    "image": "./Img/Desarrollo y Creación de Software y Sitios We.jpg"
+  },
+  {
+    "title": "Infraestructura y Conectividad",
+    "shortDescription": "Optimiza la conectividad con soluciones de redes, cableado estructurado y servidores.",
+    "fullDescription": "Instalamos y gestionamos redes físicas y virtuales con alto rendimiento y seguridad para tu empresa.",
+    "icon": "FaNetworkWired",
+    "image": "./Img/Infraestructura y Conectividad.jpg"
+  },
+  {
+    "title": "Sistemas de Seguridad y Videovigilancia",
+    "shortDescription": "Protege tus espacios con tecnología avanzada en CCTV y soluciones de seguridad.",
+    "fullDescription": "Diseñamos e instalamos sistemas de seguridad personalizados con monitoreo remoto, alarmas y grabación continua.",
+    "icon": "FaVideo",
+    "image": "./Img/Sistemas de Seguridad y Videovigilancia.jpg"
+  },
+  {
+    "title": "Mantenimiento y Soporte Técnico",
+    "shortDescription": "Extiende la vida útil de tus equipos con mantenimiento preventivo y correctivo.",
+    "fullDescription": "Atendemos fallos, realizamos mantenimientos programados y soporte técnico tanto en hardware como software.",
+    "icon": "FaTools",
+    "image": "./Img/Mantenimiento y Soporte Técnico.jpg"
+  },
+  {
+    "title": "Software, Licenciamiento y Hosting",
+    "shortDescription": "Adquiere software, licencias y servicios de hosting con asesoría experta.",
+    "fullDescription": "Te ayudamos a elegir, instalar y mantener las mejores soluciones en software, incluyendo sistemas operativos y alojamiento web.",
+    "icon": "FaWindows",
+    "image": "./Img/Software, Licenciamiento y Hosting.jpg"
+  },
+  {
+    "title": "Consultoría y Asesoría Tecnológica",
+    "shortDescription": "Recibe orientación especializada para optimizar la tecnología de tu empresa.",
+    "fullDescription": "Evaluamos tus procesos tecnológicos y te damos un plan de mejora estratégica con enfoque en eficiencia y seguridad.",
+    "icon": "FaUserTie",
+    "image": "./Img/Consultoría y Asesoría Tecnológica.jpg"
+  }
+]
