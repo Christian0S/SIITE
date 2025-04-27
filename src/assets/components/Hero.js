@@ -65,7 +65,7 @@ useEffect(() => {
             <div className="col-md-5 text-md-end mt-4 mt-md-0 d-flex flex-column align-items-md-end align-items-center">
               <h5 className="mb-3">CONTÁCTANOS</h5>
               <a
-                href="https://wa.me/573001112233"
+                href="https://wa.me/3183772353"
                 className="whatsapp-button d-flex justify-content-center align-items-center"
                 target="_blank"
                 rel="noopener noreferrer"

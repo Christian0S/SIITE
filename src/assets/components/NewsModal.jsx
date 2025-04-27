@@ -33,7 +33,7 @@ const NewsModal = ({ modalData, onClose }) => {
             rel="noopener noreferrer"
             className="btn btn-outline-primary mt-3"
           >
-            Go to full article 🔗
+            Ver Noticia Completa 🔗
           </a>
         )}
       </Modal.Body>

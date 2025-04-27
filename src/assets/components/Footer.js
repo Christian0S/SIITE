@@ -33,13 +33,11 @@ const Footer = () => {
             <h6 className="fw-semibold mb-1">Correo:</h6>
             <p className="mb-2" style={{ fontSize: '0.9rem' }}>siteingsas@gmail.com</p>
             <div className="d-flex justify-content-center justify-content-md-end gap-3">
-              <a href="https://wa.me/" target="_blank" rel="noreferrer">
+              <a href="https://wa.me/+573183772353" target="_blank" rel="noreferrer">
                 <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="30" height="30" />
               </a>
-              <a href="https://facebook.com/" target="_blank" rel="noreferrer">
-                <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" height="30" />
-              </a>
-              <a href="https://instagram.com/" target="_blank" rel="noreferrer">
+              
+              <a href="https://www.instagram.com/siiteingsas/" target="_blank" rel="noreferrer">
                 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" height="30" />
               </a>
             </div>
@@ -52,3 +50,6 @@ const Footer = () => {
 };
 
 export default Footer;
+/* <a href="https://facebook.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" height="30" />
+</a> */
