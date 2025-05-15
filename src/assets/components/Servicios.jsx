@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import ServiceCard from './ServiceCard';
-import CustomModal from './CustomModal'; // Importar el Modal reutilizable
+import CustomModal from './CustomModal'; // Modal reutilizable
 import { FaCode, FaNetworkWired, FaVideo, FaTools, FaWindows, FaUserTie } from 'react-icons/fa';
 
 const iconMap = {
@@ -35,7 +35,7 @@ const Servicios = () => {
       <Container>
         <h2 className="text-center text-white mb-5">Servicios</h2>
         <Row className="g-4">
-          {servicios.map((servicio, index) => (
+          {servicios.slice(3).map((servicio, index) => (
             <Col key={index} xs={12} sm={6} md={4}>
               <div onClick={() => setModalData(servicio)}>
                 <ServiceCard {...servicio} />
@@ -45,7 +45,7 @@ const Servicios = () => {
         </Row>
       </Container>
 
-      {/* Usamos el CustomModal */}
+      {/* Modal reutilizable */}
       <CustomModal modalData={modalData} onClose={() => setModalData(null)} />
     </section>
   );

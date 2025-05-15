@@ -18,14 +18,14 @@
     "shortDescription": "Diseñamos software personalizado y desarrollamos sitios web profesionales adaptados a las necesidades de tu negocio.",
     "fullDescription": "Creamos soluciones a medida para optimizar tus procesos empresariales y presencia en línea, desde landing pages hasta sistemas completos.",
     "icon": "FaCode",
-    "image": "./Img/Desarrollo y Creación de Software y Sitios We.jpg"
+    "image": "./Img/Desarrollo y Creación de Software y Sitios We.webp"
   },
   {
     "title": "Desarrollo y Creación de Software y Sitios Web",
     "shortDescription": "Diseñamos software personalizado y desarrollamos sitios web profesionales adaptados a las necesidades de tu negocio.",
     "fullDescription": "Creamos soluciones a medida para optimizar tus procesos empresariales y presencia en línea, desde landing pages hasta sistemas completos.",
     "icon": "FaCode",
-    "image": "./Img/Desarrollo y Creación de Software y Sitios We.jpg"
+    "image": "./Img/Desarrollo y Creación de Software y Sitios We.webp"
   },
   {
     "title": "Infraestructura y Conectividad",
@@ -60,6 +60,6 @@
     "shortDescription": "Recibe orientación especializada para optimizar la tecnología de tu empresa.",
     "fullDescription": "Evaluamos tus procesos tecnológicos y te damos un plan de mejora estratégica con enfoque en eficiencia y seguridad.",
     "icon": "FaUserTie",
-    "image": "./Img/Consultoría y Asesoría Tecnológica.jpg"
+    "image": "./Img/Consultoría y Asesoría Tecnológica.webp"
   }
 ]
